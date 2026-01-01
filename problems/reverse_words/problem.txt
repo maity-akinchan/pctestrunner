@@ -1,0 +1,11 @@
+Problem: Reverse Words in a String
+
+Given a string S, reverse the order of words.
+Remove leading, trailing, and extra spaces.
+
+Example:
+Input:  "  hello   world  "
+Output: "world hello"
+
+Function Signature:
+String reverseWords(String s)

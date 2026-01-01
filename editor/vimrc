@@ -1,0 +1,8 @@
+" PCRunner minimal vim config
+set nocompatible
+set noswapfile
+set nobackup
+set nowritebackup
+set nofoldenable
+set nowrap
+syntax on

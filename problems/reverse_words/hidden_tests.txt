@@ -1,0 +1,19 @@
+INPUT
+one
+OUTPUT
+one
+---
+INPUT
+   multiple    spaces   here   
+OUTPUT
+here spaces multiple
+---
+INPUT
+java is fun
+OUTPUT
+fun is java
+---
+INPUT
+   leading and trailing   
+OUTPUT
+trailing and leading
