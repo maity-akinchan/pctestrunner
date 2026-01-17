@@ -1,0 +1,4 @@
+Problem: Prefix Expression Evaluation
+
+Evaluate a prefix expression.
+Operands are single-digit numbers.

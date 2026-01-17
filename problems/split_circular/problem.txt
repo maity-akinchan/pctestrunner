@@ -1,0 +1,4 @@
+Problem: Split Circular Linked List
+
+Split a circular linked list into two equal halves.
+If the number of nodes is odd, the first list gets one extra node.

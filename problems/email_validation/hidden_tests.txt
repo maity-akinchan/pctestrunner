@@ -1,0 +1,4 @@
+INPUT
+invalidemail
+OUTPUT
+false

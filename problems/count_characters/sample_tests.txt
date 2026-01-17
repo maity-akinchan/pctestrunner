@@ -1,0 +1,4 @@
+INPUT
+Hello123!
+OUTPUT
+2 3 3 1

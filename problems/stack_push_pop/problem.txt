@@ -1,0 +1,4 @@
+Problem: Stack Push and Pop
+
+Implement stack operations using array.
+Perform push and pop operations.

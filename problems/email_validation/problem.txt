@@ -1,0 +1,4 @@
+Problem: Email Validation Class
+
+Create a class with a constructor and a method to validate an email address.
+An email is valid if it contains '@' and '.'.

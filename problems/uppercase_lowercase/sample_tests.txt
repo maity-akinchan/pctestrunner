@@ -1,0 +1,9 @@
+INPUT
+A
+OUTPUT
+Uppercase
+---
+INPUT
+z
+OUTPUT
+Lowercase

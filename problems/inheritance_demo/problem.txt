@@ -1,0 +1,4 @@
+Problem: Inheritance Demonstration
+
+Create a parent class and child class to demonstrate inheritance.
+The child class should print a message.

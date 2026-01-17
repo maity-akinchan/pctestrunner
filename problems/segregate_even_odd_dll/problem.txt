@@ -1,0 +1,4 @@
+Problem: Segregate Even and Odd Nodes (DLL)
+
+Segregate even-valued nodes followed by odd-valued nodes
+in a doubly linked list.

@@ -1,0 +1,4 @@
+INPUT
+Never odd or even
+OUTPUT
+true

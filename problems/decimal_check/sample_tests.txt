@@ -1,0 +1,4 @@
+INPUT
+12.5
+OUTPUT
+true

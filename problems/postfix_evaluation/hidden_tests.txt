@@ -1,0 +1,4 @@
+INPUT
+234*+
+OUTPUT
+14

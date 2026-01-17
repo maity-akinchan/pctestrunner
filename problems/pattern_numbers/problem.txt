@@ -1,0 +1,10 @@
+Problem: Number Pattern Printing
+
+Print the following pattern:
+1
+212
+32123
+4321234
+
+Input:
+n (number of lines)

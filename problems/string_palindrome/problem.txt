@@ -1,0 +1,4 @@
+Problem: String Palindrome Check
+
+Check whether a given string is a palindrome.
+Ignore spaces and case.

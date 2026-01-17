@@ -1,0 +1,4 @@
+INPUT
+31 1
+OUTPUT
+1/2

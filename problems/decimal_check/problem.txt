@@ -1,0 +1,3 @@
+Problem: Check Decimal Value in Number
+
+Check whether a given number contains a decimal (fractional) part.

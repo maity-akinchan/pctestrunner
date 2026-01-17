@@ -1,0 +1,4 @@
+INPUT
+secret
+OUTPUT
+terces

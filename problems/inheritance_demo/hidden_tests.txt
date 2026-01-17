@@ -1,0 +1,2 @@
+OUTPUT
+This is child class

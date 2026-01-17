@@ -1,0 +1,3 @@
+Problem: Min Heap Insert
+
+Insert elements into a min heap and print root.

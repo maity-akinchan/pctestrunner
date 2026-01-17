@@ -1,0 +1,4 @@
+INPUT
+7.0
+OUTPUT
+false

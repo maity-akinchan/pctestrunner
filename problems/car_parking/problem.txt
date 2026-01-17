@@ -1,0 +1,5 @@
+Problem: Car Parking Class
+
+Design a class for a car parking system using constructor-based initialization.
+Store car number and hours parked.
+Parking charge = hours × 20.

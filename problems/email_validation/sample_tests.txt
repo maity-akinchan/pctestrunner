@@ -1,0 +1,4 @@
+INPUT
+test@gmail.com
+OUTPUT
+true

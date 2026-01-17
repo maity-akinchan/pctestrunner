@@ -1,0 +1,6 @@
+Problem: Count Characters in a String
+
+Count the number of vowels, consonants, digits, and special characters in a given string.
+
+Output format:
+vowels consonants digits special_characters

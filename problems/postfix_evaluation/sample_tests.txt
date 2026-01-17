@@ -1,0 +1,4 @@
+INPUT
+23*
+OUTPUT
+6

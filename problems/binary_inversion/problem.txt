@@ -1,0 +1,4 @@
+Problem: Binary Inversion and Conversion
+
+Convert a number to binary, invert its bits,
+then convert the result back to decimal.

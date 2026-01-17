@@ -1,0 +1,5 @@
+Problem: Car Parking Class
+
+Design a class to simulate a car parking system.
+Store car number and parking hours.
+Parking charge = hours × 20.

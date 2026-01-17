@@ -1,0 +1,5 @@
+INPUT
+Amit
+21
+OUTPUT
+Amit 21

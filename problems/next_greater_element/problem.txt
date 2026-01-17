@@ -1,0 +1,4 @@
+Problem: Next Greater Element
+
+For each element, print the next greater element to its right.
+If none, print -1.

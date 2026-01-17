@@ -1,0 +1,4 @@
+Problem: Build Min Heap (Heapify)
+
+Convert an array into a min heap.
+Print the root after heapify.

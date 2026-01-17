@@ -1,3 +1,5 @@
 /submissions
 .last_problem
 */__pycache__/
+bundles/
+.vscode/

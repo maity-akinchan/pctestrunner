@@ -1,0 +1,10 @@
+Problem: Uppercase or Lowercase Check
+
+Write a program to check whether an input character is uppercase or lowercase.
+
+Input:
+A single character.
+
+Output:
+Print "Uppercase" if the character is uppercase,
+otherwise print "Lowercase".

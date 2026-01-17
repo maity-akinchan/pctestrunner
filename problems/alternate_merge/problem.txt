@@ -1,0 +1,6 @@
+Problem: Alternate String Merge
+
+Merge two strings by taking alternate characters from each string.
+
+Example:
+abc, defghi → adbecfghi

@@ -1,0 +1,4 @@
+Problem: SecurityGate Class Simulation
+
+Track total visitors and total cash collected.
+Normal visitor pays Rs. 50, VIP pays nothing.

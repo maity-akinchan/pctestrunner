@@ -1,0 +1,4 @@
+Problem: Jumble a String
+
+Rearrange or jumble the characters of a given string.
+For simplicity, reverse the string.

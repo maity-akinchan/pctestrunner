@@ -1,0 +1,4 @@
+Problem: Complement of a Number
+
+Find the complement of a given number.
+The complement is obtained by flipping all bits in its binary representation.

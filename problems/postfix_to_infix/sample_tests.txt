@@ -1,0 +1,4 @@
+INPUT
+ab+
+OUTPUT
+(a+b)

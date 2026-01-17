@@ -1,0 +1,7 @@
+Problem: Pattern Printing
+
+Print the pattern:
+1
+212
+32123
+4321234

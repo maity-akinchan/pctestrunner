@@ -1,0 +1,9 @@
+INPUT
+M
+OUTPUT
+Uppercase
+---
+INPUT
+b
+OUTPUT
+Lowercase

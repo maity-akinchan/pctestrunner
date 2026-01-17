@@ -1,0 +1,4 @@
+Problem: Rearrange Even-Odd Nodes (DLL)
+
+Rearrange a doubly linked list so that
+even-positioned nodes appear first, followed by odd-positioned nodes.

@@ -1,0 +1,4 @@
+INPUT
+30 4
+OUTPUT
+1/5

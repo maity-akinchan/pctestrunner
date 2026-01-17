@@ -1,0 +1,3 @@
+Problem: Count Set Bits
+
+Count the number of set bits (1s) in the binary representation of a number.

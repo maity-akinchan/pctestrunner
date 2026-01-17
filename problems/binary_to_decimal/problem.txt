@@ -1,0 +1,3 @@
+Problem: Binary to Decimal Conversion
+
+Convert a given binary number into its decimal equivalent.

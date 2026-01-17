@@ -1,0 +1,6 @@
+Problem: Area and Circumference Using Constructor
+
+Create a class to calculate:
+- Area of a square
+- Circumference of a circle
+using constructors.

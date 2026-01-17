@@ -1,0 +1,5 @@
+INPUT
+Riya
+19
+OUTPUT
+Riya 19

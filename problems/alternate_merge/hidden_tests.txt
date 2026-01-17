@@ -1,0 +1,5 @@
+INPUT
+x
+abcdef
+OUTPUT
+xabcdef

@@ -1,0 +1,3 @@
+Problem: Inheritance Demonstration
+
+Create a parent class and child classes to demonstrate inheritance.

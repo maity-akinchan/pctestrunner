@@ -1,0 +1,4 @@
+INPUT
+ab*c+
+OUTPUT
+((a*b)+c)
